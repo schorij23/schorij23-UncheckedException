@@ -2,6 +2,7 @@ public class Application {
     /**
      * This class contains a main method that allows you to manually test the UncheckedException challenge functionality.
      * No changes you make here affect the test case results. You must still run & pass the test cases.
+     * Changes
      * All implementation code should be written in the Lab class.
      *
      * The Lab.throwUncheckedException method should throw an unchecked exception.
